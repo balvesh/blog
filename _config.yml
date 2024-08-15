@@ -16,11 +16,11 @@ theme: minima
 
 # Minima theme settings
 minima:
-  accent_color: "#2d4f7c"
-  background_color: "#ffffff"
-  heading_color: "#1a202c"
-  text_color: "#4a5568"
-  link_color: "#2b6cb0"
+  accent_color: "#ff5f57"
+  background_color: "#1c1e26"
+  heading_color: "#f8f8f2"
+  text_color: "#a6accd"
+  link_color: "#8be9fd"
   sidebar:
     pinned: true
     social_links:
