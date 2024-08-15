@@ -1,4 +1,4 @@
-# Welcome to My GitHub Blog
+
 
 Hello! I'm Balvesh Rakkar, a Lead Developer at Rightpoint with around 7 years of experience in Magento. My journey in the world of eCommerce has been a rewarding one, where I've honed my skills in optimizing performance, squashing bugs, and ensuring that every project runs smoothly.
 
