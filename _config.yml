@@ -16,17 +16,7 @@ theme: minima
 
 # Minima theme settings
 minima:
-  accent_color: "#ffb347"
-  background_color: "#282c34"
-  heading_color: "#61dafb"
-  text_color: "#abb2bf"
-  link_color: "#98c379"
-  sidebar:
-    pinned: true
-    social_links:
-      twitter: https://twitter.com/BalveshS
-      github: https://github.com/balvesh
-      linkedin: https://www.linkedin.com/in/balvesh-rakkar/
+  custom_css: /assets/css/style.scss
 
 # Plugins
 plugins:
