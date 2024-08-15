@@ -1,1 +1,57 @@
+# Site settings
+title: "Balvesh Rakkar's Dev Blog"
+description: "Insights and experiences in Magento development, performance optimization, and more."
+url: "https://balveshrakkar.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Author settings
+author:
+  name: "Balvesh Rakkar"
+  email: "balveshr@gmail.com"
+  twitter_username: BalveshS
+  github_username: balvesh
+
+# Theme settings
 theme: minima
+
+# Minima theme settings
+minima:
+  accent_color: "#2d4f7c"
+  background_color: "#ffffff"
+  heading_color: "#1a202c"
+  text_color: "#4a5568"
+  link_color: "#2b6cb0"
+  sidebar:
+    pinned: true
+    social_links:
+      twitter: https://twitter.com/BalveshS
+      github: https://github.com/balvesh
+      linkedin: https://www.linkedin.com/in/balvesh-rakkar/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Pagination
+paginate: 5
+paginate_path: "/page/:num/"
+
+# SEO and social sharing
+social:
+  name: "Balvesh Rakkar"
+  description: "Lead Developer at Rightpoint | Magento Expert | Performance Optimization Enthusiast"
+  links:
+    - "https://twitter.com/BalveshS"
+    - "https://github.com/balvesh"
+    - "https://www.linkedin.com/in/balvesh-rakkar/"
+  image: "/assets/images/profile.jpg"
+
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title.html
