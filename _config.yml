@@ -4,11 +4,6 @@ description: "Insights and experiences in Magento development, performance optim
 url: "https://balvesh.github.io/"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
-title: "Blogs"
-description: "Blogs"
-url: "https://balvesh.github.io/"
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-
 # Author settings
 author:
   name: "Balvesh Rakkar"
@@ -44,4 +39,5 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num/"
 
+# Permalinks
 permalink: /:categories/:year/:month/:day/:title.html
