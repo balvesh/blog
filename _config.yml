@@ -1,8 +1,8 @@
 # Site settings
 title: "Balvesh Rakkar's Dev Blog"
 description: "Insights and experiences in Magento development, performance optimization, and more."
-url: "https://balveshrakkar.github.io"
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://balvesh.github.io/"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 
 # Author settings
 author:
@@ -39,19 +39,4 @@ plugins:
 paginate: 5
 paginate_path: "/page/:num/"
 
-# SEO and social sharing
-social:
-  name: "Balvesh Rakkar"
-  description: "Lead Developer at Rightpoint | Magento Expert | Performance Optimization Enthusiast"
-  links:
-    - "https://twitter.com/BalveshS"
-    - "https://github.com/balvesh"
-    - "https://www.linkedin.com/in/balvesh-rakkar/"
-  image: "/assets/images/profile.jpg"
-
-
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title.html
