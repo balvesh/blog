@@ -1,6 +1,11 @@
 # Site settings
-title: "Balvesh Rakkar's Dev Blog"
+title: "Home"
 description: "Insights and experiences in Magento development, performance optimization, and more."
+url: "https://balvesh.github.io/"
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+
+title: "Blogs"
+description: "Blogs"
 url: "https://balvesh.github.io/"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 
