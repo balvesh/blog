@@ -11,40 +11,24 @@ author:
   twitter_username: BalveshS
   github_username: balvesh
 
-# # Theme settings
-# theme: minima
+# Theme settings
+theme: minima
 
-# # Minima theme settings
-# minima:
-#   accent_color: "#2d4f7c"
-#   background_color: "#ffffff"
-#   heading_color: "#1a202c"
-#   text_color: "#4a5568"
-#   link_color: "#2b6cb0"
-#   sidebar:
-#     pinned: true
-#     social_links:
-#       twitter: https://twitter.com/BalveshS
-#       github: https://github.com/balvesh
-#       linkedin: https://www.linkedin.com/in/balvesh-rakkar/
+# Minima theme settings
+minima:
+  accent_color: "#2d4f7c"
+  background_color: "#ffffff"
+  heading_color: "#1a202c"
+  text_color: "#4a5568"
+  link_color: "#2b6cb0"
+  sidebar:
+    pinned: true
+    social_links:
+      twitter: https://twitter.com/BalveshS
+      github: https://github.com/balvesh
+      linkedin: https://www.linkedin.com/in/balvesh-rakkar/
 
-######################################
-# --- Colours / background image --- #
-######################################
 
-# Personalize the colours in your website. Colour values can be any valid CSS colour
-
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
